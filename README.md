@@ -9,6 +9,8 @@ https://tor.invidious.site/ru/download - Tor Browser
 
 https://www.vmos.com - виртуальная машина на телефон (блокировка паролем)
 
+https://globalcheck.net/ru/monitoring/ru - проверить блокировки
+
 # Приложения
 https://element.io/get-started - децентрализованный мессенджер
 
