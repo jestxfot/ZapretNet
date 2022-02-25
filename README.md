@@ -14,5 +14,7 @@ https://github.com/berty/berty - мессенджер 3
 
 https://play.google.com/store/apps/details?id=me.bridgefy.main - мессенджер андроид
 
+https://play.google.com/store/apps/details?id=net.upx.proxy.browser - VPN браузер
+
 # Гайды
 https://doxajournal.ru/shutdown_guide - отключение интернета, что делать и как защищаться?
