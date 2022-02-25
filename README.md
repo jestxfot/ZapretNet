@@ -1,4 +1,4 @@
-# ZapretNet
+# 🕵️‍ ZapretNet
 https://roskomsvoboda.org - независимое СМИ про цензуру
 
 https://t.me/roskomsvoboda - телеграм канал
