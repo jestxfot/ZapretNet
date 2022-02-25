@@ -5,7 +5,7 @@ https://t.me/roskomsvoboda - телеграм канал
 
 https://censortracker.org - расширение обход цензуры
 
-https://tor.invidious.site/ru/download/ - Tor Browser
+https://tor.invidious.site/ru/download - Tor Browser
 
 # Приложения
 https://element.io/get-started - децентрализованный мессенджер
