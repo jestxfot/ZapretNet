@@ -18,5 +18,7 @@ https://play.google.com/store/apps/details?id=me.bridgefy.main - мессенд�
 
 https://play.google.com/store/apps/details?id=net.upx.proxy.browser - VPN браузер
 
+https://www.psiphon3.com/ru/download.html - VPN на все случаи жизни
+
 # Гайды
 https://doxajournal.ru/shutdown_guide - отключение интернета, что делать и как защищаться?
