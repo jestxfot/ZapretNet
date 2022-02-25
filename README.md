@@ -7,6 +7,8 @@ https://censortracker.org - расширение обход цензуры
 
 https://tor.invidious.site/ru/download - Tor Browser
 
+https://www.vmos.com - виртуальная машина на телефон
+
 # Приложения
 https://element.io/get-started - децентрализованный мессенджер
 
