@@ -7,6 +7,8 @@ https://censortracker.org - расширение обход цензуры
 
 https://tor.invidious.site/ru/download - Tor Browser
 
+https://geti2p.net/ru/ - I2p Browser
+
 https://www.vmos.com - виртуальная машина на телефон (блокировка паролем)
 
 https://globalcheck.net/ru/monitoring/ru - проверить блокировки
