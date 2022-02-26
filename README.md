@@ -2,12 +2,9 @@
 | Название | URL | 
 | --- | --- |
 | РоскомСвобода | https://roskomsvoboda.org
-
-https://censortracker.org - расширение обход цензуры
-
-https://tor.invidious.site/ru/download - Tor Browser
-
-https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982 - Tor гайд
+| ЦензорТрекер | https://censortracker.org
+| Тор Браузер | https://tor.invidious.site/ru/download
+| Тор Гайд | https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982
 
 https://geti2p.net/ru/ - I2p Browser
 
