@@ -20,6 +20,8 @@ https://github.com/berty/berty - мессенджер 3
 
 https://play.google.com/store/apps/details?id=me.bridgefy.main - мессенджер андроид
 
+https://play.google.com/store/apps/details?id=org.briarproject.briar.android - мессенджер андроид
+
 https://play.google.com/store/apps/details?id=net.upx.proxy.browser - VPN браузер
 
 https://www.psiphon3.com/ru/download.html - VPN на все случаи жизни
