@@ -7,6 +7,8 @@ https://censortracker.org - расширение обход цензуры
 
 https://tor.invidious.site/ru/download - Tor Browser
 
+https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982 - Tor гайд
+
 https://geti2p.net/ru/ - I2p Browser
 
 https://www.vmos.com - виртуальная машина на телефон (блокировка паролем)
