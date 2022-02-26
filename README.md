@@ -38,5 +38,9 @@ https://www.psiphon3.com/ru/download.html - VPN на все случаи жиз�
 
 https://f-droid.org/packages/com.github.igrmk.smsq/ - Перенаправить SMS в Телеграм
 
-# Гайды
+# Сервисы
+https://privnote.com - одноразовые СМС
+
+https://wipenote.io/ - одноразовые СМС
+
 https://doxajournal.ru/shutdown_guide - отключение интернета, что делать и как защищаться?
