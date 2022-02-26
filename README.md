@@ -18,10 +18,8 @@
 | Element.io | https://element.io/get-started
 | Мессенджер | https://github.com/orbitdb/orbit
 | Мессенджер | https://github.com/berty/berty
-
-https://play.google.com/store/apps/details?id=me.bridgefy.main - мессенджер андроид
-
-https://play.google.com/store/apps/details?id=org.briarproject.briar.android - мессенджер андроид
+| Мессенджер | https://play.google.com/store/apps/details?id=me.bridgefy.main
+| Мессенджер | https://play.google.com/store/apps/details?id=org.briarproject.briar.android
 
 https://play.google.com/store/apps/details?id=net.upx.proxy.browser - VPN браузер
 
