@@ -5,12 +5,9 @@
 | ЦензорТрекер | https://censortracker.org
 | Тор Браузер | https://tor.invidious.site/ru/download
 | Тор Гайд | https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982
-
-https://geti2p.net/ru/ - I2p Browser
-
-https://www.vmos.com - виртуальная машина на телефон (блокировка паролем)
-
-https://globalcheck.net/ru/monitoring/ru - проверить блокировки
+| I2p Browser | https://geti2p.net/ru
+| Android в Android | https://www.vmos.com
+| GlobalCheck | https://globalcheck.net/ru/monitoring/ru
 
 https://rutracker-org.appspot.com/forum/index.php - Rutracker.org
 
