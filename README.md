@@ -11,6 +11,8 @@ https://www.vmos.com - виртуальная машина на телефон (
 
 https://globalcheck.net/ru/monitoring/ru - проверить блокировки
 
+https://rutracker-org.appspot.com/forum/index.php - Rutracker.org
+
 # Приложения
 https://element.io/get-started - децентрализованный мессенджер
 
