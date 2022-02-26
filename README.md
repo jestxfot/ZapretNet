@@ -26,5 +26,7 @@ https://play.google.com/store/apps/details?id=net.upx.proxy.browser - VPN бра
 
 https://www.psiphon3.com/ru/download.html - VPN на все случаи жизни
 
+https://f-droid.org/packages/com.github.igrmk.smsq/ - Перенаправить SMS в Телеграм
+
 # Гайды
 https://doxajournal.ru/shutdown_guide - отключение интернета, что делать и как защищаться?
