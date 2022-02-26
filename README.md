@@ -3,8 +3,6 @@
 | --- | --- |
 | РоскомСвобода | https://roskomsvoboda.org
 
-https://t.me/roskomsvoboda - телеграм канал
-
 https://censortracker.org - расширение обход цензуры
 
 https://tor.invidious.site/ru/download - Tor Browser
