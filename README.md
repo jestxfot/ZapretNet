@@ -19,6 +19,8 @@ https://rutracker-org.appspot.com/forum/index.php - Rutracker.org
 
 https://startpage.com - прокси поисковик
 
+https://nitter.net - альтернативный твиттер
+
 # Приложения
 https://element.io/get-started - децентрализованный мессенджер
 
