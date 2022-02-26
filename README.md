@@ -43,4 +43,6 @@ https://privnote.com - одноразовые СМС
 
 https://wipenote.io - одноразовые СМС
 
+https://onetimesecret.com - одноразовые СМС
+
 https://doxajournal.ru/shutdown_guide - отключение интернета, что делать и как защищаться?
