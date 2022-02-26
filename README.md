@@ -1,5 +1,7 @@
 # 🕵️‍ ZapretNet
-https://roskomsvoboda.org - независимое СМИ про цензуру
+| Название | URL | 
+| --- | --- |
+| РоскомСвобода | https://roskomsvoboda.org
 
 https://t.me/roskomsvoboda - телеграм канал
 
