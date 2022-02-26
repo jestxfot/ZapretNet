@@ -17,6 +17,8 @@ https://globalcheck.net/ru/monitoring/ru - проверить блокировк
 
 https://rutracker-org.appspot.com/forum/index.php - Rutracker.org
 
+https://startpage.com - прокси поисковик
+
 # Приложения
 https://element.io/get-started - децентрализованный мессенджер
 
