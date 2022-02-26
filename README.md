@@ -8,10 +8,8 @@
 | I2p Browser | https://geti2p.net/ru
 | Android в Android | https://www.vmos.com
 | GlobalCheck | https://globalcheck.net/ru/monitoring/ru
-
-https://rutracker-org.appspot.com/forum/index.php - Rutracker.org
-
-https://startpage.com - прокси поисковик
+| Rutracker.org | https://rutracker-org.appspot.com/forum/index.php
+| StartPage прокси-поисковик | https://startpage.com 
 
 https://nitter.net - альтернативный твиттер
 
