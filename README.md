@@ -9,16 +9,15 @@
 | Android в Android | https://www.vmos.com
 | GlobalCheck | https://globalcheck.net/ru/monitoring/ru
 | Rutracker.org | https://rutracker-org.appspot.com/forum/index.php
-| StartPage прокси-поисковик | https://startpage.com 
-
-https://nitter.net - альтернативный твиттер
+| StartPage поиск | https://startpage.com 
+| Twitter | https://nitter.net
 
 # Приложения
-https://element.io/get-started - децентрализованный мессенджер
-
-https://github.com/orbitdb/orbit - мессенджер 2
-
-https://github.com/berty/berty - мессенджер 3
+| Название | URL | 
+| --- | --- |
+| Element.io | https://element.io/get-started
+| Мессенджер | https://github.com/orbitdb/orbit
+| Мессенджер | https://github.com/berty/berty
 
 https://play.google.com/store/apps/details?id=me.bridgefy.main - мессенджер андроид
 
