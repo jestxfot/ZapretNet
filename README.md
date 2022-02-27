@@ -5,6 +5,7 @@
 | ЦензорТрекер | https://censortracker.org
 | Браузер Тор | https://tor.invidious.site/ru/download
 | Браузер I2p | https://geti2p.net/ru
+| Браузер ZeroNet | https://zeronet.io
 | Тор Гайд | https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982
 | Гайд большой | https://doxajournal.ru/shutdown_guide
 | Android в Android | https://www.vmos.com
