@@ -25,6 +25,7 @@
 | VPN браузер | https://play.google.com/store/apps/details?id=net.upx.proxy.browser
 | VPN самый мощный | https://www.psiphon3.com/ru/download.html
 | Приём SMS в Telegram | https://f-droid.org/packages/com.github.igrmk.smsq
+| Шифрование Picocrypt | https://github.com/HACKERALERT/Picocrypt
 
 # Сервисы
 | Название | URL | 
