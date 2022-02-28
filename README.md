@@ -22,6 +22,7 @@
 | Мессенджер | https://github.com/berty/berty
 | Мессенджер | https://play.google.com/store/apps/details?id=me.bridgefy.main
 | Мессенджер | https://play.google.com/store/apps/details?id=org.briarproject.briar.android
+| Мессенджер | https://newnode.com/download-messenger
 | VPN браузер | https://play.google.com/store/apps/details?id=net.upx.proxy.browser
 | VPN самый мощный | https://www.psiphon3.com/ru/download.html
 | VPN самый мощный 2 | https://getlantern.org/ru_RU/index.html
