@@ -37,3 +37,5 @@
 | Приватные СМС | https://privnote.com
 | Приватные СМС | https://wipenote.io
 | Приватные СМС | https://onetimesecret.com
+
+youtube.com/watch?v=Ds2qR2nlvOI
