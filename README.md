@@ -27,6 +27,7 @@
 | VPN браузер | https://play.google.com/store/apps/details?id=net.upx.proxy.browser
 | VPN самый мощный | https://www.psiphon3.com/ru/download.html
 | VPN самый мощный 2 | https://getlantern.org/ru_RU/index.html
+| Обход DPI | https://github.com/ValdikSS/GoodbyeDPI
 | VPN сервис | https://www.nthlink.com
 | VPN список | https://vpnlove.me
 | CloudFlare | https://1.1.1.1
