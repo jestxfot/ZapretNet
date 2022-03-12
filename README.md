@@ -41,6 +41,7 @@
 | Приватные СМС | https://privnote.com
 | Приватные СМС | https://wipenote.io
 | Приватные СМС | https://onetimesecret.com
+| Приватные СМС | https://ots.sniptt.com
 | Международные переводы денег | https://paysend.com
 
 
