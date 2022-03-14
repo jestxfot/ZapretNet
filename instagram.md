@@ -4,4 +4,4 @@
 
 external.xx.fbcdn.net - для картинок
 
-instagram.fhrk1-1.fna.fbcdn.net - картинки
+instagram.*.fna.fbcdn.net - картинки
