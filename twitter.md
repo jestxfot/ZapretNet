@@ -16,6 +16,12 @@ abs-0.twimg.com - эмодзи
 video.twimg.com - видео
 
 # GitHub
+```
 *.githubassets.com
+```
+```
 *.githubusercontent.com
+```
+```
 *.github.com
+```
