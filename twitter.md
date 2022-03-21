@@ -8,9 +8,9 @@ ton.local.twitter.com - сервис твиттер
 abs.twimg.com - разблочить для постов
 
 pbs.twimg.com - разблочить для картинок
-
+```
 api.twitter.com
-
+```
 abs-0.twimg.com - эмодзи
 
 video.twimg.com - видео
