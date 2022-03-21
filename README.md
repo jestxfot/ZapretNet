@@ -8,7 +8,8 @@
 | Гайд: Большой | https://doxajournal.com/shutdown_guide
 | Android в Android | https://www.vmos.com
 | GlobalCheck | https://globalcheck.net/ru/monitoring/ru
-| Is It Blocked In Russia? | https://isitblockedinrussia.com/
+| Is It Blocked In Russia? | https://isitblockedinrussia.com
+| Down for Everyone or Just Me | https://downforeveryoneorjustme.com
 | Rutracker.org | https://rutracker-org.appspot.com/forum/index.php
 | StartPage поиск | https://startpage.com 
 | Twitter | https://nitter.net
