@@ -4,9 +4,6 @@
 | --- | --- |
 | РоскомСвобода | https://roskomsvoboda.org
 | ЦензорТрекер | https://censortracker.org
-| Браузер Тор | https://tor.invidious.site/ru/download
-| Браузер I2p | https://geti2p.net/ru
-| Браузер ZeroNet | https://zeronet.io
 | Гайд: Тор | https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982
 | Гайд: Большой | https://doxajournal.com/shutdown_guide
 | Android в Android | https://www.vmos.com
@@ -38,6 +35,9 @@
 # Программы
 | Название | URL | 
 | --- | --- |
+| Браузер I2p | https://geti2p.net/ru
+| Браузер ZeroNet | https://zeronet.io
+| Браузер Тор | https://tor.invidious.site/ru/download
 | Приём SMS в Telegram | https://f-droid.org/packages/com.github.igrmk.smsq
 | Шифрование Picocrypt | https://github.com/HACKERALERT/Picocrypt
 | Шифрование VeraCrypt | https://github.com/veracrypt/VeraCrypt
