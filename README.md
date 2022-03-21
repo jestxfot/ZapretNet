@@ -30,6 +30,7 @@
 | getlantern | https://getlantern.org/ru_RU/index.html
 | Обход DPI | https://github.com/ValdikSS/GoodbyeDPI
 | VPN сервис | https://www.nthlink.com
+| WireGuard | https://www.wireguard.com
 | VPN список | https://vpnlove.me
 | CloudFlare | https://1.1.1.1
 | Приём SMS в Telegram | https://f-droid.org/packages/com.github.igrmk.smsq
