@@ -26,6 +26,8 @@
 | Мессенджер | https://play.google.com/store/apps/details?id=org.briarproject.briar.android
 | Мессенджер | https://newnode.com/download-messenger
 | VPN браузер | https://play.google.com/store/apps/details?id=net.upx.proxy.browser
+| VPNify | https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secure.vpnify
+| Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf
 | psiphon3 | https://www.psiphon3.com/ru/download.html
 | getlantern | https://getlantern.org/ru_RU/index.html
 | Обход DPI | https://github.com/ValdikSS/GoodbyeDPI
