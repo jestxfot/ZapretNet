@@ -16,7 +16,6 @@
 | StartPage поиск | https://startpage.com 
 | Twitter | https://nitter.net
 
-# Приложения
 | Название | URL | 
 | --- | --- |
 | Element.io | https://element.io/get-started
@@ -35,6 +34,8 @@
 | WireGuard | https://www.wireguard.com
 | VPN список | https://vpnlove.me
 | CloudFlare | https://1.1.1.1
+
+# Программы
 | Приём SMS в Telegram | https://f-droid.org/packages/com.github.igrmk.smsq
 | Шифрование Picocrypt | https://github.com/HACKERALERT/Picocrypt
 | Шифрование VeraCrypt | https://github.com/veracrypt/VeraCrypt
