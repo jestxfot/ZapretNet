@@ -1,3 +1,5 @@
+# Twitter
+
 Проверить доступность твиттера по скрипту https://abs.twimg.com/responsive-web/client-web/bundle.Notifications.68cb4865.js
 
 ## Сайты важные для Твиттера:
@@ -12,3 +14,8 @@ api.twitter.com
 abs-0.twimg.com - эмодзи
 
 video.twimg.com - видео
+
+# GitHub
+*.githubassets.com
+*.githubusercontent.com
+*.github.com
