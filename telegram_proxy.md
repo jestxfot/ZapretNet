@@ -32,3 +32,5 @@ https://t.me/fckrkn_bot
 https://t.me/yadda_proxybot
 
 https://t.me/proxytelebot
+
+https://t.me/free_vpn_amnezia_bot (доступ ТОЛЬКО к самым важным ресурсам)
