@@ -27,7 +27,7 @@
 | Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf
 | psiphon3 | https://www.psiphon3.com/ru/download.html
 | getlantern | https://getlantern.org/ru_RU/index.html
-| Windscribe | https://rus.windscribe.com |
+| Windscribe | https://rus.windscribe.com/download |
 | Обход DPI | https://github.com/ValdikSS/GoodbyeDPI
 | VPN сервис | https://www.nthlink.com
 | WireGuard | https://www.wireguard.com
