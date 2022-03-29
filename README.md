@@ -33,6 +33,7 @@
 | VPN сервис | https://www.nthlink.com
 | WireGuard | https://www.wireguard.com
 | Veepn | https://veepn.com/ru/
+| LetsVpn | https://letsvpn.world/?hl=ru
 | VPN список | https://vpnlove.me
 | CloudFlare | https://1.1.1.1
 
