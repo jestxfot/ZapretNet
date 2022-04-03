@@ -4,6 +4,9 @@
 # BlackList VPN
 ❌ Hola Browser - [Miner!](https://www.virustotal.com/gui/file/58357489ac2cee4e5cc93d5f5011c9af5a20f1ddbf2021070fb9859a18e4bf03/detection)
 
+# Not working
+🛠 CloudFlare https://1.1.1.1
+
 # VPN
 | Название | URL | 
 | --- | --- |
@@ -40,7 +43,7 @@
 | Veepn | https://veepn.com/ru/
 | LetsVpn | https://letsvpn.world/?hl=ru
 | VPN список | https://vpnlove.me
-| CloudFlare | https://1.1.1.1
+| Net Healer | https://net-healer.com
 
 # Программы
 | Название | URL | 
