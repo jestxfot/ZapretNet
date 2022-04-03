@@ -5,7 +5,7 @@
 ❌ Hola Browser - [Miner!](https://www.virustotal.com/gui/file/58357489ac2cee4e5cc93d5f5011c9af5a20f1ddbf2021070fb9859a18e4bf03/detection)
 
 # Not working
-🛠 CloudFlare https://1.1.1.1
+🛠 CloudFlare - https://1.1.1.1
 
 # VPN
 | Название | URL | 
