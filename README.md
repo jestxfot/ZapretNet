@@ -33,6 +33,7 @@
 | VPN браузер | https://play.google.com/store/apps/details?id=net.upx.proxy.browser
 | VPNify | https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secure.vpnify
 | Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf
+| Заходить без VPN | https://jahproxy.pro
 | psiphon3 | https://www.psiphon3.com/ru/download.html
 | getlantern | https://getlantern.org/ru_RU/index.html
 | Windscribe | https://rus.windscribe.com/download
