@@ -55,6 +55,7 @@
 | Приём SMS в Telegram | https://f-droid.org/packages/com.github.igrmk.smsq
 | Шифрование Picocrypt | https://github.com/HACKERALERT/Picocrypt
 | Шифрование VeraCrypt | https://github.com/veracrypt/VeraCrypt
+| USB флешка | https://www.predator-usb.com/predator/en/index.php?n=Main.Download
 
 # Сервисы
 | Название | URL | 
