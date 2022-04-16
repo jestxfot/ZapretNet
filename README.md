@@ -30,6 +30,7 @@
 | Мессенджер | https://play.google.com/store/apps/details?id=me.bridgefy.main
 | Мессенджер | https://play.google.com/store/apps/details?id=org.briarproject.briar.android
 | Мессенджер | https://newnode.com/download-messenger
+| Мессенджер шифратор | https://github.com/u4i-admin/Nahoft
 | VPN браузер | https://play.google.com/store/apps/details?id=net.upx.proxy.browser
 | VPNify | https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secure.vpnify
 | Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf
