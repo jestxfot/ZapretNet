@@ -65,6 +65,7 @@
 | Приватные СМС | https://wipenote.io
 | Приватные СМС | https://onetimesecret.com
 | Приватные СМС | https://ots.sniptt.com
+| Приватные заметки | https://privatebin.net
 | Международные переводы денег | https://paysend.com
 | Блокировка hosts | https://energized.pro
 | Спрятать текст в картинку | https://futureboy.us/stegano
