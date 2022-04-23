@@ -74,7 +74,7 @@
 | Спрятать текст в картинку | https://futureboy.us/stegano
 | 🔐 PrivacyGuides | https://www.privacyguides.org/tools
 | 🔐 PrivacyTools | 🕵️‍ https://www.privacytools.io
-| 🗂 NTC party | https://ntc.party/c/internet-censorship-all-around-the-world/russia/12
+| 🗂 NTC Party | https://ntc.party/c/internet-censorship-all-around-the-world/russia/12
 | 📰 Wired Security | https://www.wired.com/category/security
 | 📰 TheTinHat | https://thetinhat.com/index.html
 
