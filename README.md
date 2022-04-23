@@ -1,6 +1,8 @@
 # 🕵️‍ ZapretNet
 [Скачать репозиторий для оффлайн доступа при отсутствии к интернету](https://github.com/jestxfot/ZapretNet/archive/refs/heads/main.zip) 
 
+"🕵️‍" - означает что сервис доступен только через VPN
+
 # BlackList VPN
 ❌ Hola Browser - [Miner!](https://www.virustotal.com/gui/file/58357489ac2cee4e5cc93d5f5011c9af5a20f1ddbf2021070fb9859a18e4bf03/detection)
 
