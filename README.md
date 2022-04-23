@@ -15,7 +15,7 @@
 | РоскомСвобода | https://roskomsvoboda.org
 | ЦензорТрекер | https://censortracker.org
 | Гайд: Тор | https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982
-| Гайд: Большой | https://doxajournal.com/shutdown_guide
+| 🕵️‍ Гайд: Большой | https://doxajournal.com/shutdown_guide
 | Android в Android | https://www.vmos.com
 | GlobalCheck | https://globalcheck.net/ru/monitoring/ru
 | Is It Blocked In Russia? | https://isitblockedinrussia.com
