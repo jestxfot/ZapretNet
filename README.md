@@ -74,7 +74,8 @@
 | Спрятать текст в картинку | https://futureboy.us/stegano
 | 🔐 PrivacyGuides | https://www.privacyguides.org/tools
 | 🔐 PrivacyTools | 🕵️‍ https://www.privacytools.io
-| 📰 Wired Security | https://www.wired.com/category/security/
+| 📰 Wired Security | https://www.wired.com/category/security
+| 📰 TheTinHat | https://thetinhat.com/index.html
 
 
 [архив](https://www.google.com/search?newwindow=1&client=ms-android-huawei&sxsrf=APq-WBtb39ELR0WIfWuTG2PGj9E6of7SAw:1646724219424&q=VPNify+-+Unlimited+Fast+VPN&si=ANhW_NoJ2qnokM-_T1OcSbqtuEZwAV8ODco_30MwEyRWOUwArx4Aqw_cTIoawlpAHdMIEkDi6QIGf3bh6g7c_dZSF-yCPjNgZPr2SibLpSrh9SF3ODpMtPGuXGmoLG-FLc8DFWAKXE8sAjpSmA_rCE5m01KCdlH_ItrdatZQP_EM1lMw2c5RinJjhPCYSanvNagvIQYDB-cvu2JOkSurwFBENcUvodA2OpUT8W-YcetGkGwkDKT9Nokr0U7afKWh1Koh46aRoytmF1Mjyv-fZZpQGke21hab-kOHrkvLMBXi-gH8yqs4U06gOywKC4se26RMNTpBQsKTglf5FWf0Kk7NQwPbdHKtDw%3D%3D&sa=X&ved=2ahUKEwjEyJDh_bX2AhXGEcAKHY5OA-YQgOQBegQIFRAE&biw=424&bih=782&dpr=2.55)
