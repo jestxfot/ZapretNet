@@ -20,9 +20,9 @@
 | GlobalCheck | https://globalcheck.net/ru/monitoring/ru
 | Is It Blocked In Russia? | https://isitblockedinrussia.com
 | Down for Everyone or Just Me | https://downforeveryoneorjustme.com
-| Rutracker.org | https://rutracker-org.appspot.com/forum/index.php
+| 🕵️‍ Rutracker.org | https://rutracker-org.appspot.com/forum/index.php
 | StartPage поиск | https://startpage.com 
-| Twitter | https://nitter.net
+| 🕵️‍ Twitter | https://nitter.net
 
 | Название | URL | 
 | --- | --- |
@@ -46,7 +46,7 @@
 | WireGuard | https://www.wireguard.com
 | Veepn | https://veepn.com/ru/
 | LetsVpn | https://letsvpn.world/?hl=ru
-| VPN список | https://vpnlove.me
+| 🕵️‍ VPN список | https://vpnlove.me
 | Net Healer | https://net-healer.com
 
 # Программы
