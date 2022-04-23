@@ -15,14 +15,14 @@
 | РоскомСвобода | https://roskomsvoboda.org
 | ЦензорТрекер | https://censortracker.org
 | Гайд: Тор | https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982
-| 🕵️‍ Гайд: Большой | https://doxajournal.com/shutdown_guide
+| Гайд: Большой | 🕵️‍ https://doxajournal.com/shutdown_guide
 | Android в Android | https://www.vmos.com
 | GlobalCheck | https://globalcheck.net/ru/monitoring/ru
 | Is It Blocked In Russia? | https://isitblockedinrussia.com
 | Down for Everyone or Just Me | https://downforeveryoneorjustme.com
-| 🕵️‍ Rutracker.org | https://rutracker-org.appspot.com/forum/index.php
+| Rutracker.org | 🕵️‍ https://rutracker-org.appspot.com/forum/index.php
 | StartPage поиск | https://startpage.com 
-| 🕵️‍ Twitter | https://nitter.net
+| Twitter | 🕵️‍ https://nitter.net
 
 | Название | URL | 
 | --- | --- |
@@ -46,7 +46,7 @@
 | WireGuard | https://www.wireguard.com
 | Veepn | https://veepn.com/ru/
 | LetsVpn | https://letsvpn.world/?hl=ru
-| 🕵️‍ VPN список | https://vpnlove.me
+| VPN список | 🕵️‍ https://vpnlove.me
 | Net Healer | https://net-healer.com
 
 # Программы
@@ -72,7 +72,7 @@
 | Блокировка hosts | https://energized.pro
 | Спрятать текст в картинку | https://futureboy.us/stegano
 | 🔐 PrivacyGuides | https://www.privacyguides.org/tools
-| 🔐🕵️‍ PrivacyTools | https://www.privacytools.io
+| 🔐 PrivacyTools | 🕵️‍ https://www.privacytools.io
 
 
 [архив](https://www.google.com/search?newwindow=1&client=ms-android-huawei&sxsrf=APq-WBtb39ELR0WIfWuTG2PGj9E6of7SAw:1646724219424&q=VPNify+-+Unlimited+Fast+VPN&si=ANhW_NoJ2qnokM-_T1OcSbqtuEZwAV8ODco_30MwEyRWOUwArx4Aqw_cTIoawlpAHdMIEkDi6QIGf3bh6g7c_dZSF-yCPjNgZPr2SibLpSrh9SF3ODpMtPGuXGmoLG-FLc8DFWAKXE8sAjpSmA_rCE5m01KCdlH_ItrdatZQP_EM1lMw2c5RinJjhPCYSanvNagvIQYDB-cvu2JOkSurwFBENcUvodA2OpUT8W-YcetGkGwkDKT9Nokr0U7afKWh1Koh46aRoytmF1Mjyv-fZZpQGke21hab-kOHrkvLMBXi-gH8yqs4U06gOywKC4se26RMNTpBQsKTglf5FWf0Kk7NQwPbdHKtDw%3D%3D&sa=X&ved=2ahUKEwjEyJDh_bX2AhXGEcAKHY5OA-YQgOQBegQIFRAE&biw=424&bih=782&dpr=2.55)
