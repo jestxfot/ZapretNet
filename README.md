@@ -79,6 +79,7 @@
 | 🗂 NTC Party | https://ntc.party/c/internet-censorship-all-around-the-world/russia/12
 | 📰 Wired Security | https://www.wired.com/category/security
 | 📰 TheTinHat | https://thetinhat.com/index.html
+| 🧹 Очистить метаданные | https://www.adarsus.com/en/remove-metadata-online-document-image-video
 | 💥 Сломать документ | https://corrupt-a-file.net
 
 
