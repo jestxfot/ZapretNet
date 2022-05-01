@@ -73,6 +73,7 @@
 | Блокировка hosts | https://energized.pro
 | Блокировка hosts 2 | https://github.com/StevenBlack/hosts
 | Спрятать текст в картинку | https://futureboy.us/stegano
+| Спрятать текст в текст | https://stegcloak.surge.sh
 | 🔐 PrivacyGuides | https://www.privacyguides.org/tools
 | 🔐 PrivacyTools | 🕵️‍ https://www.privacytools.io
 | 🔐 PrivacyToolsList | https://privacytoolslist.com
