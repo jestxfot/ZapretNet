@@ -71,6 +71,7 @@
 | 📝 Приватные заметки | https://privatebin.net
 | Международные переводы денег | https://paysend.com
 | Блокировка hosts | https://energized.pro
+| Блокировка hosts 2 | https://github.com/StevenBlack/hosts
 | Спрятать текст в картинку | https://futureboy.us/stegano
 | 🔐 PrivacyGuides | https://www.privacyguides.org/tools
 | 🔐 PrivacyTools | 🕵️‍ https://www.privacytools.io
