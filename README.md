@@ -92,11 +92,18 @@
 | 🧹 Очистить метаданные | https://www.adarsus.com/en/remove-metadata-online-document-image-video
 | 💥 Сломать документ | https://corrupt-a-file.net
 | 🔐 Расшифровать хэш SHA-1 | https://sha1.gromweb.com
-| 📲 Отследить взлом телефона | https://bloketech.com/lockwatch |
-| 📲 Кто брал мой телефон? (Anti Theft) | https://www.crookcatcher.app
-| 📲 Сигнализация угона телефона | https://play.google.com/store/apps/details?id=com.ralok.antitheftalarm
-| 📴 Экстренный сброс телефона | https://github.com/x13a/Wasted
-| 🚪 Виртуалка приложений Android | https://play.google.com/store/apps/details?id=net.typeblog.shelter
+
+<h1 align="center">📲 Phone Security</h1>
+
+🚔 Anti Theft | https://bloketech.com/lockwatch
+<br>
+🚔 Anti Theft | https://www.crookcatcher.app
+<br>
+🚨 Security Alarm | https://play.google.com/store/apps/details?id=com.ralok.antitheftalarm
+<br>
+💥 Hard Reset | https://github.com/x13a/Wasted
+<br>
+🚪 Virtual Apps Android | https://play.google.com/store/apps/details?id=net.typeblog.shelter
 
 <h1 align="center">🔐 Passwords</h1>
 
