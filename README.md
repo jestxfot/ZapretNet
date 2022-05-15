@@ -1,4 +1,10 @@
-# 🕵️‍ ZapretNet
+<h1 align="center"># 🕵️‍ ZapretNet</h1>
+
+> https://zapretnet.vercel.app
+> 
+> https://vk.com/zapret_net
+
+
 [Скачать репозиторий для оффлайн доступа при отсутствии к интернету](https://github.com/jestxfot/ZapretNet/archive/refs/heads/main.zip) 
 
 ### Обозначения:
