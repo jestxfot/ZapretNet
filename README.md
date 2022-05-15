@@ -23,7 +23,7 @@
 | ЦензорТрекер | https://censortracker.org
 | Гайд: Тор | https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982
 | ПростоVPN.АнтиЗапрет | https://antizapret.prostovpn.org
-| Гайд: Большой | ⛔‍ https://doxajournal.com/shutdown_guide
+| Гайд: Большой | ⛔‍ https://doxajournal.ru/shutdown_guide
 | Android в Android | https://www.vmos.com
 | GlobalCheck | https://globalcheck.net/ru/monitoring/ru
 | Is It Blocked In Russia? | https://isitblockedinrussia.com
