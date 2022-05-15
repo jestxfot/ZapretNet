@@ -7,9 +7,9 @@
 > [Скачать репозиторий для оффлайн доступа при отсутствии к интернету](https://github.com/jestxfot/ZapretNet/archive/refs/heads/main.zip) 
 
 ### Обозначения:
-"🕵️‍" - означает что сервис доступен только через VPN
+"🕵️" - означает что сервис доступен только через VPN
 <br>
-"🛠" - означает что VPN заблокирован в РФ
+"⛔" - означает что VPN заблокирован в РФ
 
 <h1 align="center">BlackList VPN</h1>
 
@@ -23,15 +23,15 @@
 | ЦензорТрекер | https://censortracker.org
 | Гайд: Тор | https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982
 | ПростоVPN.АнтиЗапрет | https://antizapret.prostovpn.org
-| Гайд: Большой | 🕵️‍ https://doxajournal.com/shutdown_guide
+| Гайд: Большой | ⛔‍ https://doxajournal.com/shutdown_guide
 | Android в Android | https://www.vmos.com
 | GlobalCheck | https://globalcheck.net/ru/monitoring/ru
 | Is It Blocked In Russia? | https://isitblockedinrussia.com
 | Down for Everyone or Just Me | https://downforeveryoneorjustme.com
-| Rutracker.org | 🕵️‍ https://rutracker-org.appspot.com/forum/index.php
+| Rutracker.org | ⛔‍ https://rutracker-org.appspot.com/forum/index.php
 | StartPage поиск | https://startpage.com 
-| Twitter | 🕵️‍ https://nitter.net
-| CloudFlare | 🛠 https://1.1.1.1
+| Twitter | https://nitter.net
+| CloudFlare | ⛔ https://1.1.1.1
 
 | Название | URL | 
 | --- | --- |
