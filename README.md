@@ -53,7 +53,7 @@
 | WireGuard | https://www.wireguard.com
 | Veepn | https://veepn.com/ru/
 | LetsVpn | https://letsvpn.world/?hl=ru
-| VPN список | 🕵️‍ https://vpnlove.me
+| VPN список | https://vpnlove.me
 | Net Healer | https://net-healer.com
 
 <h1 align="center">Apps</h1>
