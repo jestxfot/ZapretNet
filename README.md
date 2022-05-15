@@ -11,10 +11,12 @@
 
 "🛠" - означает что VPN заблокирован в РФ
 
-# BlackList VPN
+<h1 align="center">BlackList VPN</h1>
+
 ❌ Hola Browser - [Miner!](https://www.virustotal.com/gui/file/58357489ac2cee4e5cc93d5f5011c9af5a20f1ddbf2021070fb9859a18e4bf03/detection)
 
-# VPN
+<h1 align="center">VPN</h1>
+
 | Название | URL | 
 | --- | --- |
 | РоскомСвобода | https://roskomsvoboda.org
@@ -55,7 +57,8 @@
 | VPN список | 🕵️‍ https://vpnlove.me
 | Net Healer | https://net-healer.com
 
-# Программы
+<h1 align="center">Apps</h1>
+
 | Название | URL | 
 | --- | --- |
 | Браузер I2p | https://geti2p.net/ru
@@ -66,7 +69,8 @@
 | Шифрование VeraCrypt | https://github.com/veracrypt/VeraCrypt
 | USB флешка | https://www.predator-usb.com/predator/en/index.php?n=Main.Download
 
-# Сервисы
+<h1 align="center">Sites</h1>
+
 | Название | URL | 
 | --- | --- |
 | 💬 Приватные СМС | https://privnote.com
