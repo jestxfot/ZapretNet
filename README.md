@@ -109,9 +109,13 @@
 
 🔓 Leak Pass | https://haveibeenpwned.com
 <br>
+🔓 Leak Pass | https://cybernews.com/password-leak-check
+<br>
 🔓 Leak Email https://spycloud.com/check-your-exposure
 <br>
 🔓 Leak Email | https://monitor.firefox.com
+<br>
+🔓 Leak Email | https://namescan.io/FreeEmailCompromisedCheck.aspx
 <br>
 🔓 Leak Login | https://ghostproject.fr
 <br>
