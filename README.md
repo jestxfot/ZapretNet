@@ -82,16 +82,25 @@
 | Блокировка hosts 2 | https://github.com/StevenBlack/hosts
 | Спрятать текст в картинку | https://futureboy.us/stegano
 | Спрятать текст в текст | https://stegcloak.surge.sh
-| 🔐 PrivacyGuides | https://www.privacyguides.org/tools
-| 🔐 PrivacyTools | 🕵️‍ https://www.privacytools.io
-| 🔐 PrivacyToolsList | https://privacytoolslist.com
-| 🔐 Electronic Frontier Foundation | https://ssd.eff.org
 | 🗂 NTC Party | https://ntc.party/c/internet-censorship-all-around-the-world/russia/12
 | 📰 Wired Security | https://www.wired.com/category/security
 | 📰 TheTinHat | https://thetinhat.com/index.html
 | 🧹 Очистить метаданные | https://www.adarsus.com/en/remove-metadata-online-document-image-video
 | 💥 Сломать документ | https://corrupt-a-file.net
 | 🔐 Расшифровать хэш SHA-1 | https://sha1.gromweb.com
+
+
+<h1 align="center">📚 Guides</h1>
+
+🔐 PrivacyGuides | https://www.privacyguides.org/tools
+<br>
+🔐 PrivacyTools | 🕵️‍ https://www.privacytools.io
+<br>
+🔐 PrivacyToolsList | https://privacytoolslist.com
+<br>
+🔐 Electronic Frontier Foundation | https://ssd.eff.org
+<br>
+🤵 Персональный ассистент по безопасности | https://securno.org
 
 <h1 align="center">📲 Phone Security</h1>
 
