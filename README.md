@@ -87,6 +87,7 @@
 | 🧹 Очистить метаданные | https://www.adarsus.com/en/remove-metadata-online-document-image-video
 | 💥 Сломать документ | https://corrupt-a-file.net
 | 🔐 Расшифровать хэш SHA-1 | https://sha1.gromweb.com
+| 🖥 Мощность ПК | https://technical.city/ru/rate-my-pc |
 
 
 <h1 align="center">📚 Guides</h1>
