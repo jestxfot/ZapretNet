@@ -116,7 +116,7 @@
 <br>
 🚪 Virtual Apps Android | https://play.google.com/store/apps/details?id=net.typeblog.shelter
 
-<h1 align="center">🔐 Passwords</h1>
+<h1 align="center">🔐 Leaks</h1>
 
 🔓 Leak Pass | https://haveibeenpwned.com
 <br>
@@ -128,13 +128,17 @@
 <br>
 🔓 Leak Email | https://namescan.io/FreeEmailCompromisedCheck.aspx
 <br>
+🔓 Leak Email | https://www.threatcop.ai/check-if-your-email-is-compromised.php
+<br>
 🔓 Leak Login | https://ghostproject.fr
 <br>
 🔓 Leak Login | https://www.dehashed.com
 <br>
 🔓 Leak Email & Login | https://leakcheck.appspot.com
 <br>
-💣 Strong Pass https://security.org
+💣 Strong Pass | https://security.org
+<br>
+🔓 Leak URL | https://www.threatcop.ai/phishing-url-checker.php
 
 
 [архив](https://www.google.com/search?newwindow=1&client=ms-android-huawei&sxsrf=APq-WBtb39ELR0WIfWuTG2PGj9E6of7SAw:1646724219424&q=VPNify+-+Unlimited+Fast+VPN&si=ANhW_NoJ2qnokM-_T1OcSbqtuEZwAV8ODco_30MwEyRWOUwArx4Aqw_cTIoawlpAHdMIEkDi6QIGf3bh6g7c_dZSF-yCPjNgZPr2SibLpSrh9SF3ODpMtPGuXGmoLG-FLc8DFWAKXE8sAjpSmA_rCE5m01KCdlH_ItrdatZQP_EM1lMw2c5RinJjhPCYSanvNagvIQYDB-cvu2JOkSurwFBENcUvodA2OpUT8W-YcetGkGwkDKT9Nokr0U7afKWh1Koh46aRoytmF1Mjyv-fZZpQGke21hab-kOHrkvLMBXi-gH8yqs4U06gOywKC4se26RMNTpBQsKTglf5FWf0Kk7NQwPbdHKtDw%3D%3D&sa=X&ved=2ahUKEwjEyJDh_bX2AhXGEcAKHY5OA-YQgOQBegQIFRAE&biw=424&bih=782&dpr=2.55)
